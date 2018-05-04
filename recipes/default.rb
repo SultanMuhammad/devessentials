@@ -8,7 +8,7 @@ package 'httpd'
 
 file '/var/www/html/index.html' do
   content '<html>
-   <h1>Hello World! This is github push test</h1>
+   <h1>Hello World! This is github push test. This chenge is testing my new git branch</h1>
 </html>'
 end
 
